@@ -1,0 +1,15 @@
+D:\Users\m.krishnevskiy\Desktop\обучение GeekBrains\1\Знакомство с языками программирования (семинары)\Seminar\Seminar3\DZ21\bin\Debug\net6.0\DZ21.exe
+D:\Users\m.krishnevskiy\Desktop\обучение GeekBrains\1\Знакомство с языками программирования (семинары)\Seminar\Seminar3\DZ21\bin\Debug\net6.0\DZ21.deps.json
+D:\Users\m.krishnevskiy\Desktop\обучение GeekBrains\1\Знакомство с языками программирования (семинары)\Seminar\Seminar3\DZ21\bin\Debug\net6.0\DZ21.runtimeconfig.json
+D:\Users\m.krishnevskiy\Desktop\обучение GeekBrains\1\Знакомство с языками программирования (семинары)\Seminar\Seminar3\DZ21\bin\Debug\net6.0\DZ21.dll
+D:\Users\m.krishnevskiy\Desktop\обучение GeekBrains\1\Знакомство с языками программирования (семинары)\Seminar\Seminar3\DZ21\bin\Debug\net6.0\DZ21.pdb
+D:\Users\m.krishnevskiy\Desktop\обучение GeekBrains\1\Знакомство с языками программирования (семинары)\Seminar\Seminar3\DZ21\obj\Debug\net6.0\DZ21.csproj.AssemblyReference.cache
+D:\Users\m.krishnevskiy\Desktop\обучение GeekBrains\1\Знакомство с языками программирования (семинары)\Seminar\Seminar3\DZ21\obj\Debug\net6.0\DZ21.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\m.krishnevskiy\Desktop\обучение GeekBrains\1\Знакомство с языками программирования (семинары)\Seminar\Seminar3\DZ21\obj\Debug\net6.0\DZ21.AssemblyInfoInputs.cache
+D:\Users\m.krishnevskiy\Desktop\обучение GeekBrains\1\Знакомство с языками программирования (семинары)\Seminar\Seminar3\DZ21\obj\Debug\net6.0\DZ21.AssemblyInfo.cs
+D:\Users\m.krishnevskiy\Desktop\обучение GeekBrains\1\Знакомство с языками программирования (семинары)\Seminar\Seminar3\DZ21\obj\Debug\net6.0\DZ21.csproj.CoreCompileInputs.cache
+D:\Users\m.krishnevskiy\Desktop\обучение GeekBrains\1\Знакомство с языками программирования (семинары)\Seminar\Seminar3\DZ21\obj\Debug\net6.0\DZ21.dll
+D:\Users\m.krishnevskiy\Desktop\обучение GeekBrains\1\Знакомство с языками программирования (семинары)\Seminar\Seminar3\DZ21\obj\Debug\net6.0\refint\DZ21.dll
+D:\Users\m.krishnevskiy\Desktop\обучение GeekBrains\1\Знакомство с языками программирования (семинары)\Seminar\Seminar3\DZ21\obj\Debug\net6.0\DZ21.pdb
+D:\Users\m.krishnevskiy\Desktop\обучение GeekBrains\1\Знакомство с языками программирования (семинары)\Seminar\Seminar3\DZ21\obj\Debug\net6.0\DZ21.genruntimeconfig.cache
+D:\Users\m.krishnevskiy\Desktop\обучение GeekBrains\1\Знакомство с языками программирования (семинары)\Seminar\Seminar3\DZ21\obj\Debug\net6.0\ref\DZ21.dll
