@@ -7,7 +7,8 @@ while (i <= n)
     i++;
 }
 
-
+// int n;
+// n = Convert.ToInt32(Console.ReadLine());
 // for (i <= n, i++);
 // {
 //     Console.WriteLine(i * i);
